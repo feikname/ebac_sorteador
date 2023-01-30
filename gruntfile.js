@@ -58,7 +58,7 @@ module.exports = function (grunt) {
                         },
                         {
                             match: 'ENDERECO_DO_JS',
-                            replacement: './dist/scripts/main.min.js'
+                            replacement: './scripts/main.min.js'
                         }
                     ]
                 },
